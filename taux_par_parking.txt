@@ -1,0 +1,523 @@
+Antigone:50.21:00
+Antigone:50.21:01
+Antigone:50.21:02
+Antigone:50.21:03
+Antigone:50.21:04
+Antigone:50.63:05
+Antigone:50.21:06
+Antigone:49.79:07
+Antigone:50.21:08
+Antigone:54.39:09
+Antigone:55.65:10
+Antigone:57.32:11
+Antigone:56.9:12
+Antigone:56.9:13
+Antigone:56.07:14
+Antigone:55.23:15
+Antigone:55.23:16
+Antigone:53.56:17
+Antigone:53.14:18
+Antigone:52.72:19
+Antigone:53.56:20
+Antigone:54.39:21
+Antigone:51.88:22
+Antigone:52.3:23
+Comedie:64.49:00
+Comedie:49.12:01
+Comedie:41.5:02
+Comedie:40.0:03
+Comedie:35.92:04
+Comedie:30.61:05
+Comedie:29.39:06
+Comedie:29.66:07
+Comedie:30.07:08
+Comedie:31.43:09
+Comedie:42.59:10
+Comedie:56.87:11
+Comedie:67.07:12
+Comedie:76.73:13
+Comedie:86.12:14
+Comedie:88.44:15
+Comedie:84.35:16
+Comedie:79.46:17
+Comedie:73.61:18
+Comedie:64.76:19
+Comedie:73.88:20
+Comedie:86.39:21
+Comedie:81.77:22
+Comedie:65.85:23
+Corum:14.84:00
+Corum:10.32:01
+Corum:5.81:02
+Corum:3.55:03
+Corum:3.23:04
+Corum:1.94:05
+Corum:0.97:06
+Corum:0.65:07
+Corum:0.65:08
+Corum:1.61:09
+Corum:3.23:10
+Corum:7.42:11
+Corum:6.77:12
+Corum:10.97:13
+Corum:9.68:14
+Corum:11.61:15
+Corum:14.19:16
+Corum:44.19:17
+Corum:95.16:18
+Corum:93.23:19
+Corum:30.32:20
+Corum:5.81:21
+Corum:0.32:22
+Corum:0.0:23
+Europa:18.27:00
+Europa:18.44:01
+Europa:18.61:02
+Europa:18.61:03
+Europa:18.78:04
+Europa:18.78:05
+Europa:19.12:06
+Europa:20.81:07
+Europa:34.86:08
+Europa:51.78:09
+Europa:62.44:10
+Europa:63.62:11
+Europa:62.94:12
+Europa:61.76:13
+Europa:61.42:14
+Europa:60.74:15
+Europa:56.85:16
+Europa:45.52:17
+Europa:30.96:18
+Europa:23.18:19
+Europa:20.14:20
+Europa:19.63:21
+Europa:18.95:22
+Europa:18.27:23
+Foch:59.29:00
+Foch:56.5:01
+Foch:54.8:02
+Foch:54.33:03
+Foch:54.33:04
+Foch:54.49:05
+Foch:54.49:06
+Foch:54.49:07
+Foch:56.5:08
+Foch:59.91:09
+Foch:67.18:10
+Foch:71.52:11
+Foch:72.76:12
+Foch:76.01:13
+Foch:77.24:14
+Foch:80.19:15
+Foch:79.41:16
+Foch:72.91:17
+Foch:71.36:18
+Foch:71.36:19
+Foch:80.96:20
+Foch:83.44:21
+Foch:84.06:22
+Foch:77.4:23
+Gambetta:51.55:00
+Gambetta:50.22:01
+Gambetta:50.0:02
+Gambetta:49.78:03
+Gambetta:49.78:04
+Gambetta:49.56:05
+Gambetta:49.34:06
+Gambetta:49.12:07
+Gambetta:48.23:08
+Gambetta:48.89:09
+Gambetta:57.08:10
+Gambetta:60.4:11
+Gambetta:59.96:12
+Gambetta:59.51:13
+Gambetta:59.07:14
+Gambetta:60.18:15
+Gambetta:58.85:16
+Gambetta:55.53:17
+Gambetta:52.21:18
+Gambetta:56.42:19
+Gambetta:62.39:20
+Gambetta:59.73:21
+Gambetta:58.63:22
+Gambetta:55.75:23
+Gare:48.78:00
+Gare:47.56:01
+Gare:47.71:02
+Gare:47.41:03
+Gare:44.66:04
+Gare:43.75:05
+Gare:50.15:06
+Gare:53.66:07
+Gare:58.54:08
+Gare:62.96:09
+Gare:65.85:10
+Gare:69.21:11
+Gare:67.99:12
+Gare:70.27:13
+Gare:69.66:14
+Gare:67.23:15
+Gare:61.43:16
+Gare:57.01:17
+Gare:60.06:18
+Gare:55.34:19
+Gare:62.8:20
+Gare:66.62:21
+Gare:57.32:22
+Gare:46.8:23
+Triangle:19.59:00
+Triangle:17.28:01
+Triangle:15.67:02
+Triangle:15.44:03
+Triangle:14.06:04
+Triangle:13.82:05
+Triangle:14.06:06
+Triangle:13.59:07
+Triangle:20.74:08
+Triangle:35.02:09
+Triangle:47.93:10
+Triangle:54.38:11
+Triangle:61.75:12
+Triangle:60.37:13
+Triangle:57.83:14
+Triangle:55.99:15
+Triangle:55.3:16
+Triangle:51.38:17
+Triangle:49.54:18
+Triangle:39.17:19
+Triangle:37.56:20
+Triangle:38.25:21
+Triangle:35.94:22
+Triangle:28.8:23
+Pitot:39.86:00
+Pitot:32.37:01
+Pitot:29.98:02
+Pitot:29.3:03
+Pitot:29.3:04
+Pitot:28.79:05
+Pitot:28.62:06
+Pitot:28.62:07
+Pitot:28.28:08
+Pitot:29.13:09
+Pitot:34.07:10
+Pitot:35.26:11
+Pitot:36.8:12
+Pitot:39.01:13
+Pitot:39.52:14
+Pitot:42.93:15
+Pitot:44.8:16
+Pitot:42.59:17
+Pitot:39.52:18
+Pitot:37.31:19
+Pitot:40.2:20
+Pitot:51.28:21
+Pitot:58.26:22
+Pitot:55.37:23
+Circe:5.42:00
+Circe:2.83:01
+Circe:1.25:02
+Circe:1.08:03
+Circe:1.08:04
+Circe:1.08:05
+Circe:1.0:06
+Circe:1.08:07
+Circe:1.17:08
+Circe:1.33:09
+Circe:2.42:10
+Circe:4.17:11
+Circe:5.17:12
+Circe:6.83:13
+Circe:7.25:14
+Circe:7.67:15
+Circe:6.92:16
+Circe:6.83:17
+Circe:5.17:18
+Circe:3.75:19
+Circe:4.0:20
+Circe:3.42:21
+Circe:2.67:22
+Circe:1.83:23
+Garcia Lorca:7.85:00
+Garcia Lorca:7.85:01
+Garcia Lorca:7.85:02
+Garcia Lorca:7.85:03
+Garcia Lorca:7.85:04
+Garcia Lorca:7.85:05
+Garcia Lorca:7.85:06
+Garcia Lorca:8.86:07
+Garcia Lorca:13.16:08
+Garcia Lorca:22.28:09
+Garcia Lorca:23.8:10
+Garcia Lorca:25.06:11
+Garcia Lorca:25.32:12
+Garcia Lorca:26.08:13
+Garcia Lorca:27.59:14
+Garcia Lorca:27.59:15
+Garcia Lorca:26.33:16
+Garcia Lorca:22.53:17
+Garcia Lorca:13.92:18
+Garcia Lorca:9.37:19
+Garcia Lorca:7.34:20
+Garcia Lorca:7.34:21
+Garcia Lorca:7.34:22
+Garcia Lorca:6.58:23
+Mosson:14.57:00
+Mosson:13.71:01
+Mosson:13.71:02
+Mosson:13.71:03
+Mosson:13.71:04
+Mosson:13.71:05
+Mosson:15.43:06
+Mosson:21.14:07
+Mosson:36.86:08
+Mosson:56.0:09
+Mosson:61.43:10
+Mosson:64.29:11
+Mosson:67.43:12
+Mosson:66.86:13
+Mosson:70.0:14
+Mosson:68.29:15
+Mosson:64.0:16
+Mosson:55.43:17
+Mosson:36.86:18
+Mosson:23.71:19
+Mosson:20.29:20
+Mosson:17.71:21
+Mosson:17.14:22
+Mosson:16.0:23
+Sabines:7.73:00
+Sabines:7.73:01
+Sabines:6.82:02
+Sabines:6.36:03
+Sabines:6.36:04
+Sabines:7.27:05
+Sabines:9.09:06
+Sabines:10.0:07
+Sabines:14.55:08
+Sabines:23.18:09
+Sabines:35.91:10
+Sabines:40.45:11
+Sabines:44.55:12
+Sabines:43.64:13
+Sabines:42.73:14
+Sabines:40.91:15
+Sabines:42.27:16
+Sabines:39.55:17
+Sabines:35.91:18
+Sabines:30.45:19
+Sabines:36.36:20
+Sabines:41.36:21
+Sabines:35.45:22
+Sabines:24.55:23
+Sablassou:55.91:00
+Sablassou:55.65:01
+Sablassou:55.38:02
+Sablassou:55.38:03
+Sablassou:55.38:04
+Sablassou:55.65:05
+Sablassou:55.65:06
+Sablassou:57.26:07
+Sablassou:68.28:08
+Sablassou:81.18:09
+Sablassou:86.56:10
+Sablassou:90.86:11
+Sablassou:94.62:12
+Sablassou:93.82:13
+Sablassou:95.7:14
+Sablassou:94.09:15
+Sablassou:88.44:16
+Sablassou:81.72:17
+Sablassou:71.24:18
+Sablassou:64.25:19
+Sablassou:61.02:20
+Sablassou:58.6:21
+Sablassou:58.33:22
+Sablassou:58.33:23
+Saint Jean Le Sec:57.19:00
+Saint Jean Le Sec:56.84:01
+Saint Jean Le Sec:56.84:02
+Saint Jean Le Sec:56.49:03
+Saint Jean Le Sec:56.49:04
+Saint Jean Le Sec:56.49:05
+Saint Jean Le Sec:56.49:06
+Saint Jean Le Sec:56.49:07
+Saint Jean Le Sec:57.19:08
+Saint Jean Le Sec:57.89:09
+Saint Jean Le Sec:60.7:10
+Saint Jean Le Sec:62.46:11
+Saint Jean Le Sec:64.91:12
+Saint Jean Le Sec:66.32:13
+Saint Jean Le Sec:70.18:14
+Saint Jean Le Sec:71.23:15
+Saint Jean Le Sec:71.58:16
+Saint Jean Le Sec:70.18:17
+Saint Jean Le Sec:66.32:18
+Saint Jean Le Sec:62.81:19
+Saint Jean Le Sec:58.95:20
+Saint Jean Le Sec:58.6:21
+Saint Jean Le Sec:58.6:22
+Saint Jean Le Sec:58.6:23
+Euromedecine:35.29:00
+Euromedecine:34.9:01
+Euromedecine:34.9:02
+Euromedecine:34.9:03
+Euromedecine:34.9:04
+Euromedecine:34.9:05
+Euromedecine:34.9:06
+Euromedecine:34.9:07
+Euromedecine:34.9:08
+Euromedecine:34.9:09
+Euromedecine:35.29:10
+Euromedecine:35.69:11
+Euromedecine:36.47:12
+Euromedecine:37.25:13
+Euromedecine:37.25:14
+Euromedecine:38.04:15
+Euromedecine:38.82:16
+Euromedecine:40.0:17
+Euromedecine:39.61:18
+Euromedecine:38.82:19
+Euromedecine:36.47:20
+Euromedecine:34.9:21
+Euromedecine:34.9:22
+Euromedecine:34.51:23
+Occitanie:13.33:00
+Occitanie:13.33:01
+Occitanie:13.33:02
+Occitanie:13.33:03
+Occitanie:13.33:04
+Occitanie:13.66:05
+Occitanie:13.98:06
+Occitanie:17.56:07
+Occitanie:35.93:08
+Occitanie:57.4:09
+Occitanie:63.58:10
+Occitanie:67.97:11
+Occitanie:68.46:12
+Occitanie:67.8:13
+Occitanie:71.22:14
+Occitanie:56.59:15
+Occitanie:51.54:16
+Occitanie:41.14:17
+Occitanie:25.37:18
+Occitanie:11.06:19
+Occitanie:4.39:20
+Occitanie:2.44:21
+Occitanie:0.65:22
+Occitanie:0.16:23
+Vicarello:30.67:00
+Vicarello:30.67:01
+Vicarello:30.67:02
+Vicarello:30.67:03
+Vicarello:30.67:04
+Vicarello:29.33:05
+Vicarello:29.33:06
+Vicarello:29.33:07
+Vicarello:32.0:08
+Vicarello:44.0:09
+Vicarello:76.0:10
+Vicarello:80.0:11
+Vicarello:68.0:12
+Vicarello:62.67:13
+Vicarello:72.0:14
+Vicarello:78.67:15
+Vicarello:69.33:16
+Vicarello:80.0:17
+Vicarello:53.33:18
+Vicarello:48.0:19
+Vicarello:48.0:20
+Vicarello:49.33:21
+Vicarello:40.0:22
+Vicarello:38.67:23
+Gaumont EST:57.31:00
+Gaumont EST:58.08:01
+Gaumont EST:58.08:02
+Gaumont EST:58.08:03
+Gaumont EST:58.08:04
+Gaumont EST:58.08:05
+Gaumont EST:57.31:06
+Gaumont EST:58.85:07
+Gaumont EST:62.31:08
+Gaumont EST:71.15:09
+Gaumont EST:72.69:10
+Gaumont EST:74.62:11
+Gaumont EST:75.77:12
+Gaumont EST:76.92:13
+Gaumont EST:75.38:14
+Gaumont EST:74.23:15
+Gaumont EST:71.15:16
+Gaumont EST:69.62:17
+Gaumont EST:66.92:18
+Gaumont EST:64.23:19
+Gaumont EST:61.54:20
+Gaumont EST:61.92:21
+Gaumont EST:61.15:22
+Gaumont EST:60.0:23
+Gaumont OUEST:13.76:00
+Gaumont OUEST:12.87:01
+Gaumont OUEST:12.09:02
+Gaumont OUEST:11.98:03
+Gaumont OUEST:11.83:04
+Gaumont OUEST:11.83:05
+Gaumont OUEST:12.04:06
+Gaumont OUEST:13.66:07
+Gaumont OUEST:16.64:08
+Gaumont OUEST:23.39:09
+Gaumont OUEST:37.94:10
+Gaumont OUEST:48.46:11
+Gaumont OUEST:52.12:12
+Gaumont OUEST:57.82:13
+Gaumont OUEST:56.99:14
+Gaumont OUEST:57.88:15
+Gaumont OUEST:53.74:16
+Gaumont OUEST:46.94:17
+Gaumont OUEST:38.41:18
+Gaumont OUEST:34.38:19
+Gaumont OUEST:28.89:20
+Gaumont OUEST:25.64:21
+Gaumont OUEST:23.44:22
+Gaumont OUEST:19.52:23
+Charles de Gaulle:70.91:00
+Charles de Gaulle:69.55:01
+Charles de Gaulle:68.64:02
+Charles de Gaulle:68.64:03
+Charles de Gaulle:67.95:04
+Charles de Gaulle:68.18:05
+Charles de Gaulle:68.18:06
+Charles de Gaulle:67.73:07
+Charles de Gaulle:67.73:08
+Charles de Gaulle:72.73:09
+Charles de Gaulle:77.27:10
+Charles de Gaulle:82.27:11
+Charles de Gaulle:85.23:12
+Charles de Gaulle:86.59:13
+Charles de Gaulle:85.23:14
+Charles de Gaulle:83.18:15
+Charles de Gaulle:80.91:16
+Charles de Gaulle:76.59:17
+Charles de Gaulle:73.41:18
+Charles de Gaulle:72.27:19
+Charles de Gaulle:84.09:20
+Charles de Gaulle:89.09:21
+Charles de Gaulle:90.0:22
+Charles de Gaulle:83.86:23
+Sablassou:55.91:00
+Sablassou:55.65:01
+Sablassou:55.38:02
+Sablassou:55.38:03
+Sablassou:55.38:04
+Sablassou:55.65:05
+Sablassou:55.65:06
+Sablassou:57.26:07
+Sablassou:68.28:08
+Sablassou:81.18:09
+Sablassou:86.56:10
+Sablassou:90.86:11
+Sablassou:94.62:12
+Sablassou:93.82:13
+Sablassou:95.7:14
+Sablassou:94.09:15
+Sablassou:88.44:16
+Sablassou:81.72:17
+Sablassou:71.24:18
